@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tianyancha_webauto_process" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ui_webauto" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qichacha_webauto_process" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webauto" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (lianxi) " jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
